@@ -1,4 +1,4 @@
 # McGill FSAE
-Electronics/PCBs I created to complement the tutorials for McGill FSAE Electric team.
+Electronics/PCBs I put together to complement the tutorials for the McGill FSAE Electric team.
 
 Tutorial 3: Schematic creation
