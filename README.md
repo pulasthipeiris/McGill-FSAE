@@ -1,5 +1,5 @@
 # McGill FSAE
-Some of the Electronics/PCBs I put together for the McGill FSAE Electric team.
+Some of the electronics I put together for the McGill FSAE Electric team.
 
 # PCB Design Series
 Currently building out and teaching a PCB Design course purposed for effective knowledge transfer. 
